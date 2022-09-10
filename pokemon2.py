@@ -1,3 +1,8 @@
+# Script en python que consulta el api de pokemon
+# para listar los nombres de pokemon pero se le agrego
+# interacción para que listaras más pokemons segun se vaya requiriendo.
+#Contribuyo: Daniel Arreaga Escareño
+#Fecha: 10/09/2022
 import requests
 #Nombre: Daniel Arreaga Escareño
 #Matricula: 2029652
